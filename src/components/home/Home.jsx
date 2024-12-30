@@ -4,7 +4,7 @@ import Hblog from "./Hblog"
 import HAbout from "./HAbout"
 import Hprice from "./Hprice"
 import Testimonal from "./testimonal/Testimonal"
-import HeroHero from "../../../../../three/src/hello/hero/Hero"
+// import HeroHero from "../../../../../three/src/hello/hero/Hero"
 import HeroHello from "./hero/Hero"
 
 const Home = () => {

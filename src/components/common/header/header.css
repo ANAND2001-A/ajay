@@ -13,7 +13,7 @@
 /*--------head------------*/
 /*--------header------------*/
 header {
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color:#32a852;
   margin: 0 30px;
 }
 header .nav {
@@ -31,10 +31,10 @@ header ul li a {
   transition: 0.5s;
 }
 header ul li a:hover {
-  color: #536493;
+  color: #1d3c85;
 }
 .start {
-  background-color: #536493;
+  background-color: #1d3c85;
   padding: 30px 70px;
   color: #fff;
   clip-path: polygon(10% 0%, 100% 0, 100% 100%, 0% 100%);

@@ -12,7 +12,7 @@ const Footer = () => {
             <span>Far far away, behind the word mountains</span>
           </div>
           <div className='right row'>
-            <input type='text' placeholder='Enter email address' />
+            <input className ="text-black" type='email' placeholder='Enter email address' />
             <i className='fa fa-paper-plane'></i>
           </div>
         </div>
@@ -20,9 +20,9 @@ const Footer = () => {
       <footer>
         <div className='container padding'>
           <div className='box logo'>
-            <h1>ACADEMIA</h1>
+            <h1>NEXTZENI</h1>
             <span>ONLINE EDUCATION & LEARNING</span>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+            <p>Empower Your Voice, Elevate Your Impact!</p>
 
             <i className='fab fa-facebook-f icon'></i>
             <i className='fab fa-twitter icon'></i>

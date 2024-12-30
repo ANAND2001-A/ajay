@@ -2,10 +2,10 @@
 
 /*------------Color Variables-----------*/
 :root {
-  --primary-color: #536493;
+  --primary-color: #32a852;
   --primary-color-light: rgba(255, 255, 255, 0.3);
-  --primary-color-hover: #536493;
-  --text-color: #333;
+  --primary-color-hover: #1d3c85;
+  --text-color: #ffffff;
   --background-color: #f8f8f8;
   --white-color: #fff;
   --shadow-color: rgb(0 0 0 / 9%);
@@ -115,7 +115,7 @@ p {
 
 /*------------Background Section-----------*/
 .back {
-  background-image: url("../public/images/back.webp");
+  background-image: url("../public/images/bgimg.jpg");
   background-size: cover;
   background-attachment: fixed;
   position: absolute;
