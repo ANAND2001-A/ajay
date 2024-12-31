@@ -3,41 +3,41 @@ export const homeAbout = [
     id: 1,
     cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
     title: "Online Courses",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Enhance your communication and language skills with our easy-to-follow online course, accessible from anywhere.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/diploma.png",
-    title: "Earn A Certificates",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "Certificates",
+    desc: "Gain recognized certificates and open doors to new opportunities with courses that enhance your skills and knowledge.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/athlete.png",
     title: "Learn with Expert",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Beyond the complexities of language, a wealth of knowledge awaits to guide you in mastering effective communication skills.",
   },
 ]
 export const awrapper = [
   {
     cover: "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
-    data: "3,000",
+    data: "3",
     title: "SUCCESS STORIES",
   },
 
   {
     cover: "https://img.icons8.com/ios/80/ffffff/athlete.png",
-    data: "320",
+    data: "5",
     title: "TRUSTED TUTORS",
   },
   {
     cover: "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
-    data: "1,000",
+    data: "10",
     title: "SCHEDULES",
   },
   {
     cover: "https://img.icons8.com/ios/80/ffffff/macbook-idea--v3.png",
-    data: "587",
+    data: "15",
     title: "COURSES",
   },
 ]
@@ -293,26 +293,31 @@ export const team = [
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
 ]
+
+
+//price for the all the pricing card.
+
+
 export const price = [
   {
     name: "BASIC PLAN",
-    price: "49K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    price: "1k",
+    desc: "Get started with our Basic Plan at just 1k, offering essential features with great value and no hidden fees.",
   },
   {
     name: "BEGINNER PLAN",
-    price: "79K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    price: "2K",
+    desc: "Start your journey with our Beginner Plan at just 2k, offering essential features for newcomers at an affordable price.",
   },
   {
     name: "PREMIUM PLAN",
-    price: "109k",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    price: "2.5k",
+    desc: "Unlock advanced features with our Premium Plan at 2.5k, designed for those who need extra tools, enhanced support, and greater flexibility.",
   },
   {
     name: "ULTIMATE PLAN",
-    price: "149K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    price: "4k",
+    desc: "Experience the best with our Ultimate Plan at 4k, offering top-tier features, priority support, and unlimited access for maximum performance.",
   },
 ]
 export const faq = [
@@ -345,78 +350,78 @@ export const blog = [
   {
     id: 1,
     type: "admin",
-    date: "JAN. 18, 2021",
+    date: "JAN. 01, 2025",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b1.webp",
+    cover: "../images/blog/b01.jpg",
   },
   {
     id: 2,
     type: "admin",
-    date: "API. 25, 2022",
+    date: "API. 25, 2024",
     com: "5 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b2.webp",
+    cover: "../images/blog/b02.jpg",
   },
   {
     id: 3,
     type: "user",
-    date: "MAY. 15, 2022",
+    date: "MAY. 15, 2024",
     com: "10 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b3.webp",
+    cover: "../images/blog/b03.jpg",
   },
   {
     id: 4,
     type: "admin",
-    date: "JAN. 02, 2022",
+    date: "JAN. 01, 2024",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b4.webp",
+    cover: "../images/blog/b04.jpg",
   },
   {
     id: 5,
     type: "admin",
-    date: "DEC. 14, 2022",
+    date: "DEC. 14, 2024",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b5.webp",
+    cover: "../images/blog/b05.jpg",
   },
   {
     id: 6,
     type: "user",
-    date: "JAN. 18, 2021",
+    date: "JAN. 18, 2024",
     com: "12 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b6.webp",
+    cover: "../images/blog/b06.jpg",
   },
 ]
 export const testimonal = [
   {
     id: 1,
-    name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "./images/testo/t1.webp",
+    name: "Pritam",
+    post: "App Developer",
+    desc: "Communication classes boost clarity and confidence, improving personal and professional interactions for better relationships and career growth.",
+    cover: "./images/testo/t1.jpeg",
   },
   {
     id: 2,
-    name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "./images/testo/t2.webp",
+    name: "Aman",
+    post: "Web developer",
+    desc: "Improve your communication skills to connect better with others and advance in your career. Effective speaking and listening can make all the difference.",
+    cover: "./images/testo/t1.jpeg",
   },
   {
     id: 3,
-    name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "./images/testo/t3.webp",
+    name: "Dinesh Kumar",
+    post: "App developer",
+    desc: "Enhance your ability to communicate clearly and confidently, fostering stronger relationships and greater opportunities in both personal and professional settings.",
+    cover: "./images/testo/t1.jpeg",
   },
 ]

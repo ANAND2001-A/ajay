@@ -7,13 +7,13 @@ import Awrapper from "./Awrapper"
 const AboutCard = () => {
   return (
     <>
-      <section className='aboutHome bg-black'>
+      <section className='aboutHome bg-white'>
         <div className='container flexSB'>
           <div className='left row'>
-            <img src='./images/about.webp' alt='' />
+            <img src='./images/aboutimg.jpg' alt='' />
           </div>
           <div className='right row'>
-            <Heading subtitle='LEARN ANYTHING' title='Benefits About Online Learning Expertise' />
+            <Heading subtitle='SPEAK WITH CONFIDENCE' title='Advantages of Online Learning Proficiency' />
             <div className='items'>
               {homeAbout.map((val) => {
                 return (

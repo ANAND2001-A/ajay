@@ -11,7 +11,7 @@
   height: 80px;
   border-radius: 50%;
   background-color: #ffffff;
-  border: 1px solid black;
+  border: 1px solid var(--primary-color-hover);
   padding: 15px;
 }
 .coursesCard img {
@@ -30,7 +30,7 @@
 }
 .coursesCard .rate {
   margin: 20px 0;
-  color: #536493;
+  color: var( --primary-color-hover);
 }
 .coursesCard .rate i {
   font-size: 13px;
@@ -45,10 +45,10 @@
 .coursesCard .details .box {
   display: flex;
   align-items: center;
-  color: grey;
+  color: var(--secondry-color);
 }
 .coursesCard .details span {
-  color: #536493;
+  color: var(--primary-color-hover);
   font-weight: 500;
   font-size: 14px;
 }
@@ -93,14 +93,14 @@
   padding: 5px 20px;
   font-weight: 500;
   font-size: 15px;
-  color: #536493;
+  color: var(--primary-color-hover);
   border-radius: 5px;
 }
 .online .box .show {
   opacity: 0;
 }
 .online .box:hover {
-  background-color: #536493;
+  background-color: var(--primary-color-hover);
   border-radius: 5px;
   cursor: pointer;
 }

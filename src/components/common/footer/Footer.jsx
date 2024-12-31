@@ -8,8 +8,8 @@ const Footer = () => {
       <section className='newletter'>
         <div className='container flexSB'>
           <div className='left row'>
-            <h1>Newsletter - Stay tune and get the latest update</h1>
-            <span>Far far away, behind the word mountains</span>
+            <h1>Subscribe to Our Bulletin - Stay Updated with the Latest News and Insights.</h1>
+            <span>Stay informed and connected with the latest updates</span>
           </div>
           <div className='right row'>
             <input className ="text-black" type='email' placeholder='Enter email address' />
@@ -74,15 +74,15 @@ const Footer = () => {
             <ul>
               <li>
                 <i className='fa fa-map'></i>
-                203 Fake St. Mountain View, San Francisco, California, USA
+                Vibhuti Khand Gomti Nagar, Lucknow UttarPredesh 
               </li>
               <li>
                 <i className='fa fa-phone-alt'></i>
-                +2 392 3929 210
+                +91 6307749532
               </li>
               <li>
                 <i className='fa fa-paper-plane'></i>
-                info@yourdomain.com
+                ajaydhawan@gmail.com
               </li>
             </ul>
           </div>
@@ -90,7 +90,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2022 All rights reserved | This template is made with <i className='fa fa-heart'></i> by GorkhCoder
+          Copyright ©2025 All rights reserved | This template is made with <i className='fa fa-heart'></i> by Difmo Technologies
         </p>
       </div>
     </>

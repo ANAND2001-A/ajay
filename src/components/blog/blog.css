@@ -13,22 +13,22 @@
   transition: 0.5s;
 }
 .blog h1:hover {
-  color: #536493;
+  color: var(--primary-color-hover);
   cursor: pointer;
 }
 .blog span {
   text-transform: uppercase;
   font-weight: 500;
-  color: #536493;
+  color: var(--primary-color-hover);
 }
 .blog span label {
   margin-left: 10px;
-  color: grey;
+  color: var(--secondry-color);
   font-size: 14px;
 }
 .blog span:nth-last-child(1) label {
-  color: #536493;
+  color: var(--primary-color-hover);
 }
 .blog p {
-  color: grey;
+  color: var(--secondry-color);
 }
